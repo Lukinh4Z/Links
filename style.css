@@ -42,8 +42,8 @@ li {
     background: #FFFFFF;
     box-shadow: 0px 0px 0px 4px rgba(0, 0, 0, 0.15);
     border-radius: 0px 32px 0px 0px;
-    padding: 19px 0; /*da borda pra dentro*/
-    margin: 16px 0; /*da borda pra fora*/
+    padding: 19px 0; /* da borda pra dentro */
+    margin: 16px 0; /* da borda pra fora */
 }
 
 li a {
